@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/bNXW2m7j/IMG-20241111-005203.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="BTV HD"
+tvg-logo="https://i.postimg.cc/t4sZPC85/IMG-20241127-101407.jpg"tvg-chno="2" group-title="FR TV CHANNEL", BTV HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btv-local-sg-220-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="MY TV" tvg-logo="https://i.postimg.cc/Kv2FycvL/images-30.jpg" tvg-chno="2" group-title="FR TV CHANNEL", MY TV
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="E TV" tvg-logo="https://i.postimg.cc/YSsGZJ14/IMG-20241112-043123.jpg" tvg-chno="3" group-title="FR TV CHANNEL", E TV
